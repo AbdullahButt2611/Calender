@@ -8,9 +8,16 @@ Follwing resources have been used in maing this project:
 <br><br>
 
 ## Demo
+If you want to checkout this project in running state then you can visit the link given below:
+<br>
+[Calendar Project](https://calendar-pied.vercel.app/)
+<br>
+If you like this project then you can star this repository
+
 <br><br>
 
 ## GUI
+![Calendar Image Demo](demo.png)
 <br><br>
 
 ## Technology Stack
